@@ -1,0 +1,2478 @@
+aaaa 4:9
+Error : wp('i-okhestra', 'isazi_somnyuziki')
+Error : wp('ikhompyutha', 'umqondo_womshini')
+Error : wp('iqembu_labahlinzi', 'udokotela')
+Error : wp('isisu', 'indilinga_yokudla')
+
+exists 4:10
+Error : exists_zu('inkawu', 'dla', 'isithelo')
+Error : exists_zu('ukusebenza', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umuntu', 'dla', 'isithelo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampula_igazi')
+Error : wp_solid_p('isinkwa', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 2:3
+Error : pw_ci('indilinga_yokudla', 'isisu')
+Error : pw_ci('umqondo_womshini', 'ikhompyutha')
+
+nexist 3:5
+Error : nexist_zu('ingwe', 'dla', 'i-apula')
+Error : nexist_zu('ugogo', 'dla', 'i-apula')
+Error : nexist_zu('umuntu', 'feza', 'umsebenzi_onqunyiwe')
+
+ingxenye 1:5
+Error : pw('isazi_somnyuziki', 'i-okhestra')
+
+hlanganyele 1:2
+Error : pw_pi_c('iqembu_labahlinzi', 'ukuhlinza')
+
+isiqephu 3:3
+Error : pw_solid_p('isampula_igazi', 'igazi')
+Error : pw_solid_p('ucezu_isinkwa', 'isinkwa')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+umunxa 1:2
+Error : pw_spatial_p('ithiyetha_yokuhlinzela', 'isibhedlela')
+
+bbbb 1:2
+Error : wp_cp('ukuhlinza', 'iqembu_labahlinzi')
+
+disjoint 4:14
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('isihlalo', 'itafula')
+Error : nisa_zu('isipuni', 'umfoloko')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 10:13
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 11:14
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 10:13
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 11:14
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 10:13
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 11:14
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 10:13
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 11:14
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 10:13
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 11:14
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 10:13
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 11:14
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 10:13
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 11:14
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 10:13
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 11:14
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 11:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('ingwe', 'ja', 'apole')
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+dddd 1:2
+Error : wp_spatial('sepetlele', 'thiyetha_yahoselakga')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 13:14
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 13:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 7:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('ngaka', 'hoselakga')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 9:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('hoselakga', 'ngaka')
+Error : wp('motho', 'pelo')
+
+exists 13:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 6:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 8:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('motho', 'pelo')
+
+exists 12:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 4:5
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('bohobe', 'folawa')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 6:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 8:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('motho', 'pelo')
+
+exists 13:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('umphakathi', 'kopanetse', 'kgetho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('umshobingo', 'metsi')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 6:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 8:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('motho', 'pelo')
+
+exists 12:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('umshobingo', 'metsi')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 6:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 8:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('motho', 'pelo')
+
+exists 12:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('umshobingo', 'metsi')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 6:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 8:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('motho', 'pelo')
+
+exists 12:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('umshobingo', 'metsi')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 6:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 8:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('motho', 'pelo')
+
+exists 12:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('umshobingo', 'metsi')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 6:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 8:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('motho', 'pelo')
+
+exists 12:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('umshobingo', 'metsi')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 6:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 8:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('motho', 'pelo')
+
+exists 12:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('umshobingo', 'metsi')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
+ingxenye 6:7
+Error : pw('metsi', 'umshobingo')
+Error : pw('pelo', 'motho')
+Error : pw('Mofumahadi', 'iNgqungquthela')
+Error : pw('motsibi_wammino', 'okhestra')
+Error : pw('flawa', 'bohobe')
+Error : pw('hokwenya', 'hoja')
+
+aaaa 8:9
+Error : wp('okhestra', 'setsibi_sammino')
+Error : wp('iNgqungquthela', 'mofumahadi')
+Error : wp('khompyutha', 'umqondo_womshini')
+Error : wp('emvolopho', 'buka')
+Error : wp('iqembu_labahlinzi', 'ngaka')
+Error : wp('mpa', 'indilinga_yokudla')
+Error : wp('hoja', 'hokwenya')
+Error : wp('motho', 'pelo')
+
+exists 12:13
+Error : exists_zu('ibhubesi', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'ihlamvana')
+Error : exists_zu('inkawu', 'ja', 'isithelo')
+Error : exists_zu('pidisi', 'entswe', 'isitashi')
+Error : exists_zu('iqembu_labahlinzi', 'kopanetswe', 'hoselakga')
+Error : exists_zu('thuto', 'rutwa', 'Motsibi')
+Error : exists_zu('Motsibi', 'rutisa', 'thuto')
+Error : exists_zu('hosebetsa', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'etsa', 'thutho')
+Error : exists_zu('motho', 'ja', 'isithelo')
+Error : exists_zu('motho', 'nwa', 'uketshezi')
+Error : exists_zu('indlulamithi', 'ja', 'ihlamvana')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('bohobe', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('indilinga_yokudla', 'mpa')
+Error : pw_ci('umqondo_womshini', 'khompyutha')
+
+akhiwe 1:2
+Error : const_a('ntlo', 'itshe')
+
+nexist 5:5
+Error : nexist_zu('pidisi', 'entswe', 'umshobingo')
+Error : nexist_zu('ivazi', 'akhiwe', 'metsi')
+Error : nexist_zu('nkgono', 'ja', 'apole')
+Error : nexist_zu('motho', 'feza', 'umsebenzi_onqunyiwe')
+Error : nexist_zu('ingwe', 'ja', 'apole')
+
+isiqephu 3:3
+Error : pw_solid_p('sampole_madi', 'madi')
+Error : pw_solid_p('ucezu_isinkwa', 'bohobe')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+cccc 1:2
+Error : wp_s('umshobingo', 'metsi')
+
+umunxa 1:2
+Error : pw_spatial_p('thiyetha_yahoselakga', 'sepetlele')
+
+bbbb 2:2
+Error : wp_cp('hoselakga', 'iqembu_labahlinzi')
+Error : wp_cp('kghetho', 'umphakathi')
+
+disjoint 14:14
+Error : nisa_zu('botlolo', 'ushizi')
+Error : nisa_zu('ibhubesi', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('meroho', 'nama')
+Error : nisa_zu('indebe', 'ingilazi')
+Error : nisa_zu('ntlo', 'umjondolo')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'moroho')
+Error : nisa_zu('sejanama', 'sejameroho')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('kgaba', 'fereko')
+Error : nisa_zu('ubabekazi', 'malome')
+Error : nisa_zu('homatha', 'hodula')
+Error : nisa_zu('noka', 'umsele')
+
