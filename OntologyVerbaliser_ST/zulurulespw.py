@@ -268,23 +268,23 @@ def look_qce(nc):
     if '?' in nc:
         qce = 'ggg'
     elif nc == '1' or nc == '1a':
-        qce = 'ye'
+        qce = 'le'
     elif nc == '2' or nc == '2a' or nc == '14':
-        qce = 'bo'
+        qce = 'le'
     elif nc == '3a' or nc == '3' or nc == '6':
-        qce = 'wo'
+        qce = 'le'
     elif nc == '4' or nc == '9a' or nc == '9':
-        qce = 'yo'
+        qce = 'le'
     elif nc == '5' or nc == '11':
-        qce = 'lo'
+        qce = 'le'
     elif nc == '7':
-        qce = 'so'
+        qce = 'le'
     elif nc == '8' or nc == '10':
-        qce = 'zo'
+        qce = 'le'
     elif nc == '15':
         qce = 'le'
     elif nc == '17':
-        qce = 'lo'
+        qce = 'le'
     else:
         qce = 'lll'
     return qce
@@ -491,7 +491,7 @@ def nexist_zu(sub,op,super):
         negconjrt = negsc_vowel_vroot(rt,negsc)
     else:
         negconjrt = negsc + rt
-    return qca + ' ' + pl + ' ' + negconjrt + 'i' + ' ' + super + ' ' + rc + qc + 'ngwe'
+    return qca + ' ' + pl + ' ' + negconjrt + 'e' + ' ' + super + ' ' + rc + qc + 'ngwe'
 
 # the enumeration-and, not the connective-and
 def conjunct_zu(first,second):
