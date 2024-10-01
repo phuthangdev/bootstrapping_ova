@@ -1,0 +1,882 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE Ontology [
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/phuthangmakhupane/ontologies/2024/10/testOntoSeSothoWithPW.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/phuthangmakhupane/ontologies/2024/10/testOntoSeSothoWithPW.owl">
+    <Prefix name="" IRI="http://www.semanticweb.org/puhthangmakhupane/ontologies/2024/10/testOntoSeSothoWithPW.owl#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">this is very much a test ontology and contains mostly just those axioms that were used in several papers (CNL14, RuleML14, LRE16, INLG16)</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#Motsamaisi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metsi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#apole"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#okhestra"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pokano"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lebotlolo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tau"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#founo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#madi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hebhivo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sehebera"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#motlae"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tharabololo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#khanivo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#khompyutha"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#merogo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#impala"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#emvolopho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#buka"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#senwelo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sediko_sa_dijo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tlou"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ntlo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#thutlwa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#monna"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#galase"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#nkwe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pelo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ntša"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tshwene"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#nama"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pilisi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#setlhopha_sa_dingaka"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sampole_madi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#seitse_sammino"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bookelo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sejanama"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sejadimela"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#thuto"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#thuto_yadipalo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sekgwa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#setulo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phologolo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#borotho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#khaba"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mpa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#setatšhe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tholoana"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tafole"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#thiyetha_yakaro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leje"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kgopa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#motlae"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#molelo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ekhibidu"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Kgosigadi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#moitse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mmamalome"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#letsopa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sengoathoana_sa_borotho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ngaka"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#folawa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mmèmogolo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metsi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tlhopho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ice_cream"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gothuma"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#goja"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gotaboga"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hotsenya"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gonna"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#go_dira_karo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#go_tlhafuna_ice_cream"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gobereka"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lekolulo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#malome"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mmala"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metshameko"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mosadi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#morogo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#foroko"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#noka"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#moithuthi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#moithuti_wa_undergraduate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mokhukhu"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#setšhaba"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#segopotso_sa_motšhini"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mmereko"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mmereko_okgutsufaditsweng"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kanale"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tshingwana"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#motho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#semela"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tšhisi"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#aaaa"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#agilwe"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#bbbb"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#cccc"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#dddd"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ja"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#eeee"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#dira"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#dirilwe"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#dira"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ffff"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ruta"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#rutiwa"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#kopanngwa"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#karolo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#tiragalo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#nwa"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#motlatsi"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#yagodirakgatsa"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Motsamaisi"/>
+        <Class IRI="#mmereko"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metsi"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#karolo"/>
+            <Class IRI="#tshingwana"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#okhestra"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#aaaa"/>
+            <Class IRI="#seitse_sammino"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pokano"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#aaaa"/>
+            <Class IRI="#Kgosigadi"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tau"/>
+        <Class IRI="#phologolo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tau"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#ja"/>
+            <Class IRI="#impala"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#madi"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#eeee"/>
+            <Class IRI="#sampole_madi"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sehebera"/>
+        <Class IRI="#semela"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tharabololo"/>
+        <Class IRI="#semela"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#khompyutha"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#aaaa"/>
+            <Class IRI="#segopotso_sa_motšhini"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#impala"/>
+        <Class IRI="#phologolo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#emvolopho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#aaaa"/>
+            <Class IRI="#buka"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#buka"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#ffff"/>
+            <Class IRI="#emvolopho"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sediko_sa_dijo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#ffff"/>
+            <Class IRI="#mpa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tlou"/>
+        <Class IRI="#phologolo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tlou"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#ja"/>
+            <Class IRI="#motlae"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ntlo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#agilwe"/>
+            <Class IRI="#leje"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#thutlwa"/>
+        <Class IRI="#phologolo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#thutlwa"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#ja"/>
+            <Class IRI="#motlae"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#nkwe"/>
+        <Class IRI="#phologolo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#nkwe"/>
+        <ObjectComplementOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#ja"/>
+                <Class IRI="#apole"/>
+            </ObjectSomeValuesFrom>
+        </ObjectComplementOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pelo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#karolo"/>
+            <Class IRI="#motho"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ntša"/>
+        <Class IRI="#phologolo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tshwene"/>
+        <Class IRI="#phologolo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tshwene"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#ja"/>
+            <Class IRI="#tholoana"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pilisi"/>
+        <ObjectComplementOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#dirilwe"/>
+                <Class IRI="#tshingwana"/>
+            </ObjectSomeValuesFrom>
+        </ObjectComplementOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pilisi"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#dirilwe"/>
+            <Class IRI="#setatšhe"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#setlhopha_sa_dingaka"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#aaaa"/>
+            <Class IRI="#ngaka"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#setlhopha_sa_dingaka"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#kopanetswe"/>
+            <Class IRI="#go_dira_karo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sampole_madi"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#tiragalo"/>
+            <Class IRI="#madi"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#moitse_wammino"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#karolo"/>
+            <Class IRI="#okhestra"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bookelo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#dddd"/>
+            <Class IRI="#thiyetha_yakaro"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#thuto"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#rutiwa"/>
+            <Class IRI="#moitse"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#thuto_yadipalo"/>
+        <Class IRI="#thuto"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sekgwa"/>
+        <Class IRI="#semela"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#borotho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#cccc"/>
+            <Class IRI="#folawa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#borotho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#eeee"/>
+            <Class IRI="#sengoathoana_sa_borotho"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mpa"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#aaaa"/>
+            <Class IRI="#sediko_sa_dijo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#thiyetha_yakaro"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#motlatsi"/>
+            <Class IRI="#bookelo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kgopa"/>
+        <ObjectComplementOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#agilwe"/>
+                <Class IRI="#metsi"/>
+            </ObjectSomeValuesFrom>
+        </ObjectComplementOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kgopa"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#agilwe"/>
+            <Class IRI="#letsopa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#motlae"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#dddd"/>
+            <Class IRI="#molelo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#molelo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#motlatsi"/>
+            <Class IRI="#motlae"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ekhibidu"/>
+        <Class IRI="#mmala"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Kgosigadi"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#karolo"/>
+            <Class IRI="#Pokano"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#moitse"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#rutisa"/>
+            <Class IRI="#thuto"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sengoathoana_sa_borotho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#tiragalo"/>
+            <Class IRI="#borotho"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ngaka"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#karolo"/>
+            <Class IRI="#go_dira_karo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#folawa"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#karolo"/>
+            <Class IRI="#borotho"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mmèmogolo"/>
+        <ObjectComplementOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#ja"/>
+                <Class IRI="#apole"/>
+            </ObjectSomeValuesFrom>
+        </ObjectComplementOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kghetho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#bbbb"/>
+            <Class IRI="#setšhaba"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ice_cream"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#eeee"/>
+            <Class IRI="#go_tlhafuna_ice_cream"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gothuma"/>
+        <Class IRI="#metshameko"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#goja"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#aaaa"/>
+            <Class IRI="#gometsa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gometsa"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#karolo"/>
+            <Class IRI="#goja"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#go_dira_karo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#aaaa"/>
+            <Class IRI="#ngaka"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#go_dira_karo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#bbbb"/>
+            <Class IRI="#setlhopha_sa_dingaka"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#go_tlhafuna_ice_cream"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#tiragalo"/>
+            <Class IRI="#ice_cream"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gobereka"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#yagodirakgatsa"/>
+            <Class IRI="#mmereko_okgutsufaditsweng"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lekolulo"/>
+        <Class IRI="#founo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#moithuti_wa_undergraduate"/>
+        <Class IRI="#moithuti"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#moithuti_wa_undergraduate"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#dira"/>
+            <Class IRI="#thutho"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#setšhaba"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#kopanngwa"/>
+            <Class IRI="#tlhopho"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#segopotso_sa_motšhini"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#ffff"/>
+            <Class IRI="#khompyutha"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tshingwana"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#cccc"/>
+            <Class IRI="#metsi"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#motho"/>
+        <ObjectComplementOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#dira"/>
+                <Class IRI="#mmereko_okgutsufaditsweng"/>
+            </ObjectSomeValuesFrom>
+        </ObjectComplementOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#motho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#aaaa"/>
+            <Class IRI="#pelo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#motho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#ja"/>
+            <Class IRI="#tholoana"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#motho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#nwa"/>
+            <Class IRI="#metsi"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#lebotlolo"/>
+        <Class IRI="#tšhisi"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#tau"/>
+        <Class IRI="#tlou"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#hebhivo"/>
+        <Class IRI="#khanivo"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#merogo"/>
+        <Class IRI="#nama"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#senwelo"/>
+        <Class IRI="#galase"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#ntlo"/>
+        <Class IRI="#mokhukhu"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#monna"/>
+        <Class IRI="#mosadi"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#nama"/>
+        <Class IRI="#morogo"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#sejanama"/>
+        <Class IRI="#sejamerogo"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#setulo"/>
+        <Class IRI="#tafole"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#khaba"/>
+        <Class IRI="#foroko"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#mmamalome"/>
+        <Class IRI="#malome"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#gotaboga"/>
+        <Class IRI="#gonna"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#noka"/>
+        <Class IRI="#kanale"/>
+    </DisjointClasses>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#metsi</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">with pw_s!</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#folawa</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">with pw_s!</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
