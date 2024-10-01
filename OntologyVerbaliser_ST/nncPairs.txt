@@ -1,189 +1,186 @@
 sehlahla,7
 setlhare,7
-tlou,9
 sejo,7
 nama,9
-hebhivo,5
-wayene,5m
+hebhivo,9
+wayene,9
 kereipo,9
 sebala,7
 botlolo,9
 univesithi,9
 moithuti,1
-moithuti wa-undergraduate,1
-tsela,3
-ngaka,1a
+moithuti_wa_undergraduate,1
+tsela,9
+ngaka,9
 ntja,9
-dijo tsa katse,15m
+dijo tsa katse,9a
 nonyana,9
-motshwari,3
-isilwane esifuyiweyo,7
-ithoyizi,5
-isakhiwo,7
-igumbi,5
-udonga,1a
-indlwana,9
-iwindi,5
-iNkosi,9
-umengammeli,1a
-umkhandlu,3
-ikomidi,5
+motshwari,1
+phoohofolo eruhilweng,9
+thoye,9
+sebopeho,7
+kamore,9
+lebota,5
+ntlwana,9
+festere,9
+Morena,1
+mookamedi,1
+moahantlo,1
+komiti,9
 palamente,9
 moemedi,1
-umlamuleli,1a
-nese,1a
+molamolli,1
+nese,9
 hoselakga,15
-setlhare,3
+setlhare,7
 pidisi,9
 hokgenela,15
-ukuhlahlwa kwesifo esikumuntu,15
-uphawu,11
-mpa,7
-unyawo,11
-ihlo,5
-ukukhempa,15
-isithwebuli,7
+ho aroloa ha lefu la batho,15
+letswao,5
+mpa,9
+leoto,5
+leihlo,5
+hokhempha,15
+sethwebodi,7
 hotele,9
-ibhishi,5
-holedei,5
-ukhilimu oyiqhwa,3a
+lewatle,5
+holedei,9
+ice_cream,9
 tulo yahosesa,9
-imayonnaise,5m
-amanzi,6m
-ihholitshi,5
-uhlaza,11
-tapole,5
-senotlolo,1a
+mayoneise,9
+metsi,6
+holitshi,9
+botala,11
+tapole,9
+senotlolo,7
 sefofane,7
 koloi,9
-imali,9
-iphoyisa,5
-itiye,5
-isikukhukhula,7
-umgodi,3
-insimu,9
-intaba,9
-umfula,3
-ulwandle,11
-ufishi,3a
-umhlaba,3
-izwe,5
-ijikijolo,5
-isitambu,7
-inkukhu,9
-inkantini,9
-incwadi,9
-ibhola,5
-umsebenzi,1a
-inkampani,9
-umphakathi,3
-ibhokisi,5
-ibhodwe,5
-ikhompyutha,5
-ipayipi,5
-uphaya,1a
-indaba,9
-isikhulumi,7
-isicathulo,7
-isokisi,5
-imbali,9
-uhambo,11
-ubuhle,14
-ilambu,5
-umgwaqo,3
-isikhwama,7
-umshana,1
-ukuhlobisa,15
-usikilidi,3a
-isithombe,7
-induku,9
-umqaphi,1a
-ingubo,9
-ukucula,15
-ukufunda,15
-ukuhamba,15
-ukuvela,15
-ukuhlala,15
-ukugijima,15
-ukudla,15
-ukuhlafuna,15
-ukugijima,15
-inja,9
+tjhelete,9
+lepolesa,5
+tee,9
+morwallo,3
+sekoti,7
+tshimu,9
+thaba,9
+noka,9
+lewatle,5
+thlapi,9
+lefatshe,5
+naha,9
+monokotsoai,1
+setampo,7
+kgoho,9
+kantini,9
+buka,9
+bolo,9
+mosebetsi,3
+khampani,9
+sechaba,7
+lebokose,5
+pitsa,9
+khompyutha,9
+phaephe,9
+pie,9
+taba,9
+sebuwi,7
+seeta,7
+palesa,9
+leeto,5
+botle,14
+lebone,5
+tsela,9
+sekhwama,7
+motshana,1
+ho kgabisa,15
+sakerete,7
+senepe,7
+thupa,9
+molebedi,1
+kobo,9
+ho bina,15
+ho bala,15
+ho tsamaya,15
+ho hlaha,15
+ho dula,15
+ho matha,15
+ho ja,15
+ho hlafuna,15
+ho matha,15
+ntja,9
 kgalasi,9
-ingwe,9
+nkwe,9
 komiki,9
-indlovu,9
-inyama,9
-indlu,9
-inkinga,9
-into yokwakha,9
+tlou,9
+nama,9
+ntlo,9
+mathata,6
+ntho ya hohaha,9
 impala,9
-umfula,3a
-tjheze,9
-uketshezi,3a
-ubaba,1a
-ubabekazi,1a
-umalume,1a
-uSolwazi,1a
-ugogo,1a
-umfana,1
-umfazi,1
-umkhunkuli,1
-umuntu,1
-umfundi ongenaziqu,1
-iaphula,5
-igama,5
-ibhotela,5
-iPhiza,5
-isu,5
+noka,9
+tsheze,9
+metsi,3a
+ntate,1a
+rakgadi,1
+malome,1a
+Motsibi,1
+nkgono,1a
+moshanyana,1
+mosadi,1
+mohopolo,9a
+motho,1
+moithuti_wa_undergraduate,1
+apole,9
+lebitso,5
+botlolo,9
+Pizza,9
+mpa,9
 tau,9
-hlamvana*,5
-isihlalo,7
-isilwane,7
-isidlazitshalo,7
-isidlanyama,7
-isilwane,7
-isifundo,7
-isakhiwo sokwakha,7
-tjheze*,3
-umfula,3
-umfino,3
-umsele,3
-umjondolo,3
-umfoloko,3
-ubuhle,14
-uthi,11
-irhaba,9a
+ka nako enngwe,9a
+setulo,7
+phoohofolo,9
+sejameroho,7
+sejanama,7
+thuto,7
+sebopeho sa moaho,7
+tsheze,9
+noka,9
+moroho,3
+kanale,9
+mokhukhu,3
+fereko,9
+botle,14
+o re,11
+feteletsa,9a
 thuhlo,9
 sehlahla,7
-icimbi,5
-ingqumbi,9
+seboko,7
+qubu,9
 jwala,14
 pelo,9
-itshe,5
-ivazi,9a
-ibumba,5
-isitili,7
+lejwe,5
+nkhoana,9a
+letsopa,5
+setidi,7
 hokwenya,15
-okhestra,5
+okhestra,9
 setsibi sammino,7
-uphutu,11m
-ummbila,3
-ixhiba,5
-iziko,5
-bohobe,1a
-ucezu,11
+O fositse,11
+poone,9
+motlae,1
+leifo,5
+bohobe,14
+sengoathoana,7
 Seboka,7
 Mofomahadi,1
 kgetho,3a
-lelapa,3a
-ilungu,5
-iTheku,5
-iGlenwood,5
-folawa,3a
+lelapa,5
+setho,7
+boemakepe,14
+Glenwoode,9
+folawa,9
 tharollo,9
 hosebetsa,15
-mosebetsi obehiloeng,3a
+mosebetsi obehiloeng,3
 kopano,9
 emvolopho,9
 kelello yamotjhini,9
@@ -191,19 +188,19 @@ mmoko,3a
 karoloana,9
 hobopa,15
 honyeka,15
-madi,5
-sampole,5
+madi,6
+sampole,9
 hoselakga,15
-sehlopha,5
-sehlopha sabaselakgi,5
-setatjhe,5-
+sehlopha,7
+sehlopha sabaselakgi,7
+setatjhe,7
 lethamo,5
 letsatsi,5
 leleme,5
 molomo,3
-selikalikoe sa lijo,9
+selikalikoe sa lijo,7
 polelo,9
 sepetlele,7
-thiyetha yahoselakgelakgela,9a
-monna,9
+thiyetha yahoselakgelakgela,9
+monna,1
 moZulu,1
