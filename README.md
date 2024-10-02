@@ -1,12 +1,12 @@
 # Natural Language Generation in NCB Languages
 
-This is a project towards the **MSc Artificial Intelligence** degree at the **University of Cape Town**. It is part of a 3-component thesis, 
-1. Development of a metric to measure the potential to adapt these algorithms between two languages.
-2. Developing the algorithms (THIS).
-3. Measuring correlation between 1. and 2. to validate the Metric developed in 1.
-   
 **Main Author/Student:** Phuthang Makhupane
 
+This is a project towards the **MSc Artificial Intelligence** degree at the **University of Cape Town**. It is part of a 3-component thesis, 
+1. Development of a metric to measure the potential to adapt these algorithms between two languages.
+2. Developing the algorithms through iterative adaptation (THIS).
+3. Measuring correlation between 1. and 2. to validate the Metric developed in 1.
+   
 This project focuses on Natural Language Generation (NLG) in NCB languages, specifically Zulu, Sotho, and Tswana. The goal is to develop algorithms that can verbalize various ontology axioms in these languages.
 
 ## Features
