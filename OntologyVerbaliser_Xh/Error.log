@@ -1,0 +1,1165 @@
+aaaa 4:9
+Error : wp('i-okhestra', 'isazi_somnyuziki')
+Error : wp('ikhompyutha', 'umqondo_womshini')
+Error : wp('iqembu_labahlinzi', 'udokotela')
+Error : wp('isisu', 'indilinga_yokudla')
+
+exists 4:10
+Error : exists_zu('inkawu', 'dla', 'isithelo')
+Error : exists_zu('ukusebenza', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umuntu', 'dla', 'isithelo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampula_igazi')
+Error : wp_solid_p('isinkwa', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 2:3
+Error : pw_ci('indilinga_yokudla', 'isisu')
+Error : pw_ci('umqondo_womshini', 'ikhompyutha')
+
+nexist 3:5
+Error : nexist_zu('ingwe', 'dla', 'i-apula')
+Error : nexist_zu('ugogo', 'dla', 'i-apula')
+Error : nexist_zu('umuntu', 'feza', 'umsebenzi_onqunyiwe')
+
+ingxenye 1:5
+Error : pw('isazi_somnyuziki', 'i-okhestra')
+
+hlanganyele 1:2
+Error : pw_pi_c('iqembu_labahlinzi', 'ukuhlinza')
+
+isiqephu 3:3
+Error : pw_solid_p('isampula_igazi', 'igazi')
+Error : pw_solid_p('ucezu_isinkwa', 'isinkwa')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+umunxa 1:2
+Error : pw_spatial_p('ithiyetha_yokuhlinzela', 'isibhedlela')
+
+bbbb 1:2
+Error : wp_cp('ukuhlinza', 'iqembu_labahlinzi')
+
+disjoint 4:14
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('isihlalo', 'itafula')
+Error : nisa_zu('isipuni', 'umfoloko')
+
+aaaa 4:9
+Error : wp('i-okhestra', 'isazi_somnyuziki')
+Error : wp('ikhompyutha', 'umqondo_womshini')
+Error : wp('iqembu_labahlinzi', 'udokotela')
+Error : wp('isisu', 'indilinga_yokudla')
+
+exists 4:10
+Error : exists_zu('inkawu', 'dla', 'isithelo')
+Error : exists_zu('ukusebenza', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umuntu', 'dla', 'isithelo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampula_igazi')
+Error : wp_solid_p('isinkwa', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 2:3
+Error : pw_ci('indilinga_yokudla', 'isisu')
+Error : pw_ci('umqondo_womshini', 'ikhompyutha')
+
+nexist 3:5
+Error : nexist_zu('ingwe', 'dla', 'i-apula')
+Error : nexist_zu('ugogo', 'dla', 'i-apula')
+Error : nexist_zu('umuntu', 'feza', 'umsebenzi_onqunyiwe')
+
+ingxenye 1:5
+Error : pw('isazi_somnyuziki', 'i-okhestra')
+
+hlanganyele 1:2
+Error : pw_pi_c('iqembu_labahlinzi', 'ukuhlinza')
+
+isiqephu 3:3
+Error : pw_solid_p('isampula_igazi', 'igazi')
+Error : pw_solid_p('ucezu_isinkwa', 'isinkwa')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+umunxa 1:2
+Error : pw_spatial_p('ithiyetha_yokuhlinzela', 'isibhedlela')
+
+bbbb 1:2
+Error : wp_cp('ukuhlinza', 'iqembu_labahlinzi')
+
+disjoint 4:14
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('isihlalo', 'itafula')
+Error : nisa_zu('isipuni', 'umfoloko')
+
+aaaa 4:9
+Error : wp('i-okhestra', 'isazi_somnyuziki')
+Error : wp('ikhompyutha', 'umqondo_womshini')
+Error : wp('iqembu_labahlinzi', 'udokotela')
+Error : wp('isisu', 'indilinga_yokudla')
+
+exists 4:10
+Error : exists_zu('inkawu', 'dla', 'isithelo')
+Error : exists_zu('ukusebenza', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umuntu', 'dla', 'isithelo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampula_igazi')
+Error : wp_solid_p('isinkwa', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 2:3
+Error : pw_ci('indilinga_yokudla', 'isisu')
+Error : pw_ci('umqondo_womshini', 'ikhompyutha')
+
+nexist 3:5
+Error : nexist_zu('ingwe', 'dla', 'i-apula')
+Error : nexist_zu('ugogo', 'dla', 'i-apula')
+Error : nexist_zu('umuntu', 'feza', 'umsebenzi_onqunyiwe')
+
+ingxenye 1:5
+Error : pw('isazi_somnyuziki', 'i-okhestra')
+
+hlanganyele 1:2
+Error : pw_pi_c('iqembu_labahlinzi', 'ukuhlinza')
+
+isiqephu 3:3
+Error : pw_solid_p('isampula_igazi', 'igazi')
+Error : pw_solid_p('ucezu_isinkwa', 'isinkwa')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+umunxa 1:2
+Error : pw_spatial_p('ithiyetha_yokuhlinzela', 'isibhedlela')
+
+bbbb 1:2
+Error : wp_cp('ukuhlinza', 'iqembu_labahlinzi')
+
+disjoint 4:14
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('isihlalo', 'itafula')
+Error : nisa_zu('isipuni', 'umfoloko')
+
+aaaa 4:9
+Error : wp('i-okhestra', 'isazi_somnyuziki')
+Error : wp('ikhompyutha', 'umqondo_womshini')
+Error : wp('iqembu_labahlinzi', 'udokotela')
+Error : wp('isisu', 'indilinga_yokudla')
+
+exists 4:10
+Error : exists_zu('inkawu', 'dla', 'isithelo')
+Error : exists_zu('ukusebenza', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umuntu', 'dla', 'isithelo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampula_igazi')
+Error : wp_solid_p('isinkwa', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 2:3
+Error : pw_ci('indilinga_yokudla', 'isisu')
+Error : pw_ci('umqondo_womshini', 'ikhompyutha')
+
+nexist 3:5
+Error : nexist_zu('ingwe', 'dla', 'i-apula')
+Error : nexist_zu('ugogo', 'dla', 'i-apula')
+Error : nexist_zu('umuntu', 'feza', 'umsebenzi_onqunyiwe')
+
+ingxenye 1:5
+Error : pw('isazi_somnyuziki', 'i-okhestra')
+
+hlanganyele 1:2
+Error : pw_pi_c('iqembu_labahlinzi', 'ukuhlinza')
+
+isiqephu 3:3
+Error : pw_solid_p('isampula_igazi', 'igazi')
+Error : pw_solid_p('ucezu_isinkwa', 'isinkwa')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+umunxa 1:2
+Error : pw_spatial_p('ithiyetha_yokuhlinzela', 'isibhedlela')
+
+bbbb 1:2
+Error : wp_cp('ukuhlinza', 'iqembu_labahlinzi')
+
+disjoint 4:14
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('isihlalo', 'itafula')
+Error : nisa_zu('isipuni', 'umfoloko')
+
+aaaa 4:9
+Error : wp('i-okhestra', 'isazi_somnyuziki')
+Error : wp('ikhompyutha', 'umqondo_womshini')
+Error : wp('iqembu_labahlinzi', 'udokotela')
+Error : wp('isisu', 'indilinga_yokudla')
+
+exists 4:10
+Error : exists_zu('inkawu', 'dla', 'isithelo')
+Error : exists_zu('ukusebenza', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umuntu', 'dla', 'isithelo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampula_igazi')
+Error : wp_solid_p('isinkwa', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 2:3
+Error : pw_ci('indilinga_yokudla', 'isisu')
+Error : pw_ci('umqondo_womshini', 'ikhompyutha')
+
+nexist 3:5
+Error : nexist_zu('ingwe', 'dla', 'i-apula')
+Error : nexist_zu('ugogo', 'dla', 'i-apula')
+Error : nexist_zu('umuntu', 'feza', 'umsebenzi_onqunyiwe')
+
+ingxenye 1:5
+Error : pw('isazi_somnyuziki', 'i-okhestra')
+
+hlanganyele 1:2
+Error : pw_pi_c('iqembu_labahlinzi', 'ukuhlinza')
+
+isiqephu 3:3
+Error : pw_solid_p('isampula_igazi', 'igazi')
+Error : pw_solid_p('ucezu_isinkwa', 'isinkwa')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+umunxa 1:2
+Error : pw_spatial_p('ithiyetha_yokuhlinzela', 'isibhedlela')
+
+bbbb 1:2
+Error : wp_cp('ukuhlinza', 'iqembu_labahlinzi')
+
+disjoint 4:14
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('isihlalo', 'itafula')
+Error : nisa_zu('isipuni', 'umfoloko')
+
+aaaa 4:9
+Error : wp('i-okhestra', 'isazi_somnyuziki')
+Error : wp('ikhompyutha', 'umqondo_womshini')
+Error : wp('iqembu_labahlinzi', 'udokotela')
+Error : wp('isisu', 'indilinga_yokudla')
+
+exists 4:10
+Error : exists_zu('inkawu', 'dla', 'isithelo')
+Error : exists_zu('ukusebenza', 'yawufeza', 'umsebenzi_onqunyiwe')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umuntu', 'dla', 'isithelo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampula_igazi')
+Error : wp_solid_p('isinkwa', 'ucezu_isinkwa')
+Error : wp_solid_p('ukhilimu_oyiqhwa', 'ukukhota_ukhilimu_oyiqhwa')
+
+ffff 2:3
+Error : pw_ci('indilinga_yokudla', 'isisu')
+Error : pw_ci('umqondo_womshini', 'ikhompyutha')
+
+nexist 3:5
+Error : nexist_zu('ingwe', 'dla', 'i-apula')
+Error : nexist_zu('ugogo', 'dla', 'i-apula')
+Error : nexist_zu('umuntu', 'feza', 'umsebenzi_onqunyiwe')
+
+ingxenye 1:5
+Error : pw('isazi_somnyuziki', 'i-okhestra')
+
+hlanganyele 1:2
+Error : pw_pi_c('iqembu_labahlinzi', 'ukuhlinza')
+
+isiqephu 3:3
+Error : pw_solid_p('isampula_igazi', 'igazi')
+Error : pw_solid_p('ucezu_isinkwa', 'isinkwa')
+Error : pw_solid_p('ukukhota_ukhilimu_oyiqhwa', 'ukhilimu_oyiqhwa')
+
+umunxa 1:2
+Error : pw_spatial_p('ithiyetha_yokuhlinzela', 'isibhedlela')
+
+bbbb 1:2
+Error : wp_cp('ukuhlinza', 'iqembu_labahlinzi')
+
+disjoint 4:14
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('isihlalo', 'itafula')
+Error : nisa_zu('isipuni', 'umfoloko')
+
+exists 20:24
+Error : exists_zu('amanzi', 'inxalenye', 'isivakalisi')
+Error : exists_zu('ingonyama', 'tya', 'impala')
+Error : exists_zu('indlulamthi', 'tya', 'ihlamvana')
+Error : exists_zu('intliziyo', 'inxalenye', 'umntu')
+Error : exists_zu('inkawu', 'tya', 'iziqhamo')
+Error : exists_zu('iqela_loogqirha_botyando', 'kwabelene', 'ukuhlinza')
+Error : exists_zu('isampuli_yegazi', 'isiqendu', 'igazi')
+Error : exists_zu('isazi_somculo', 'inxalenye', 'i-okhestra')
+Error : exists_zu('iqonga_lokusebenza', 'umnxa', 'isibhedlele')
+Error : exists_zu('iziko', 'umnxa', 'isiqhulo')
+Error : exists_zu('iqhekeza_lesonka', 'isiqendu', 'isonka')
+Error : exists_zu('ugqirha', 'inxalenye', 'ukuhlinza')
+Error : exists_zu('iflawa', 'inxalenye', 'isonka')
+Error : exists_zu('ukuginya', 'inxalenye', 'ukutya')
+Error : exists_zu('ukukhotha_iice_cream', 'isiqendu', 'iice_cream')
+Error : exists_zu('ukusebenza', 'yawufezekisa', 'umsebenzi_omiselweyo')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umphakathi', 'kwabelene', 'unyulo')
+Error : exists_zu('umntu', 'tya', 'iziqhamo')
+Error : exists_zu('umntu', 'sela', 'ulwelo')
+
+aaaa 8:9
+Error : wp('i-okhestra', 'isazi_somculo')
+Error : wp('ikhompyutha', 'ingcamango_yomatshini')
+Error : wp('imvulophu', 'incwadi')
+Error : wp('iqela_loogqirha_botyando', 'ugqirha')
+Error : wp('isisu', 'isangqa_sokutya')
+Error : wp('ukutya', 'ukuginya')
+Error : wp('ukuhlinza', 'ugqirha')
+Error : wp('umntu', 'intliziyo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampuli_yegazi')
+Error : wp_solid_p('isonka', 'iqhekeza_lesonka')
+Error : wp_solid_p('iice_cream', 'ukukhotha_iice_cream')
+
+ffff 3:3
+Error : pw_ci('incwadi', 'imvulophu')
+Error : pw_ci('isangqa_sokutya', 'isisu')
+Error : pw_ci('ingcamango_yomatshini', 'ikhompyutha')
+
+nexist 4:5
+Error : nexist_zu('ingwe', 'tya', 'i-apile')
+Error : nexist_zu('ipilisi', 'enziwe', 'isivakalisi')
+Error : nexist_zu('ugogo', 'tya', 'i-apile')
+Error : nexist_zu('umntu', 'feza', 'umsebenzi_omiselweyo')
+
+enziwe 1:1
+Error : const_e('ipilisi', 'isitatshi')
+
+dddd 2:2
+Error : wp_spatial('isibhedlele', 'iqonga_lokusebenza')
+Error : wp_spatial('isiqhulo', 'iziko')
+
+cccc 2:2
+Error : wp_s('isonka', 'iflawa')
+Error : wp_s('isivakalisi', 'amanzi')
+
+bbbb 2:2
+Error : wp_cp('unyulo', 'umphakathi')
+Error : wp_cp('ukuhlinza', 'iqela_loogqirha_botyando')
+
+disjoint 12:14
+Error : nisa_zu('ibhotolo', 'itshizi')
+Error : nisa_zu('ingonyama', 'indlovu')
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('indebe', 'iglasi')
+Error : nisa_zu('indlu', 'ityotyombe')
+Error : nisa_zu('isityanyama', 'isityazityalo')
+Error : nisa_zu('isihlalo', 'itafile')
+Error : nisa_zu('icephe', 'ifolokhwe')
+Error : nisa_zu('umakazi', 'umalume')
+Error : nisa_zu('ukubaleka', 'ukuhlala')
+Error : nisa_zu('umfula', 'ijelo')
+
+exists 20:24
+Error : exists_zu('amanzi', 'inxalenye', 'isivakalisi')
+Error : exists_zu('ingonyama', 'tya', 'impala')
+Error : exists_zu('indlulamthi', 'tya', 'ihlamvana')
+Error : exists_zu('intliziyo', 'inxalenye', 'umntu')
+Error : exists_zu('inkawu', 'tya', 'iziqhamo')
+Error : exists_zu('iqela_loogqirha_botyando', 'kwabelene', 'ukuhlinza')
+Error : exists_zu('isampuli_yegazi', 'isiqendu', 'igazi')
+Error : exists_zu('isazi_somculo', 'inxalenye', 'i-okhestra')
+Error : exists_zu('iqonga_lokusebenza', 'umnxa', 'isibhedlele')
+Error : exists_zu('iziko', 'umnxa', 'isiqhulo')
+Error : exists_zu('iqhekeza_lesonka', 'isiqendu', 'isonka')
+Error : exists_zu('ugqirha', 'inxalenye', 'ukuhlinza')
+Error : exists_zu('iflawa', 'inxalenye', 'isonka')
+Error : exists_zu('ukuginya', 'inxalenye', 'ukutya')
+Error : exists_zu('ukukhotha_iice_cream', 'isiqendu', 'iice_cream')
+Error : exists_zu('ukusebenza', 'yawufezekisa', 'umsebenzi_omiselweyo')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umphakathi', 'kwabelene', 'unyulo')
+Error : exists_zu('umntu', 'tya', 'iziqhamo')
+Error : exists_zu('umntu', 'sela', 'ulwelo')
+
+aaaa 8:9
+Error : wp('i-okhestra', 'isazi_somculo')
+Error : wp('ikhompyutha', 'ingcamango_yomatshini')
+Error : wp('imvulophu', 'incwadi')
+Error : wp('iqela_loogqirha_botyando', 'ugqirha')
+Error : wp('isisu', 'isangqa_sokutya')
+Error : wp('ukutya', 'ukuginya')
+Error : wp('ukuhlinza', 'ugqirha')
+Error : wp('umntu', 'intliziyo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampuli_yegazi')
+Error : wp_solid_p('isonka', 'iqhekeza_lesonka')
+Error : wp_solid_p('iice_cream', 'ukukhotha_iice_cream')
+
+ffff 3:3
+Error : pw_ci('incwadi', 'imvulophu')
+Error : pw_ci('isangqa_sokutya', 'isisu')
+Error : pw_ci('ingcamango_yomatshini', 'ikhompyutha')
+
+nexist 4:5
+Error : nexist_zu('ingwe', 'tya', 'i-apile')
+Error : nexist_zu('ipilisi', 'enziwe', 'isivakalisi')
+Error : nexist_zu('ugogo', 'tya', 'i-apile')
+Error : nexist_zu('umntu', 'feza', 'umsebenzi_omiselweyo')
+
+enziwe 1:1
+Error : const_e('ipilisi', 'isitatshi')
+
+dddd 2:2
+Error : wp_spatial('isibhedlele', 'iqonga_lokusebenza')
+Error : wp_spatial('isiqhulo', 'iziko')
+
+cccc 2:2
+Error : wp_s('isonka', 'iflawa')
+Error : wp_s('isivakalisi', 'amanzi')
+
+bbbb 2:2
+Error : wp_cp('unyulo', 'umphakathi')
+Error : wp_cp('ukuhlinza', 'iqela_loogqirha_botyando')
+
+disjoint 12:14
+Error : nisa_zu('ibhotolo', 'itshizi')
+Error : nisa_zu('ingonyama', 'indlovu')
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('indebe', 'iglasi')
+Error : nisa_zu('indlu', 'ityotyombe')
+Error : nisa_zu('isityanyama', 'isityazityalo')
+Error : nisa_zu('isihlalo', 'itafile')
+Error : nisa_zu('icephe', 'ifolokhwe')
+Error : nisa_zu('umakazi', 'umalume')
+Error : nisa_zu('ukubaleka', 'ukuhlala')
+Error : nisa_zu('umfula', 'ijelo')
+
+exists 20:24
+Error : exists_zu('amanzi', 'inxalenye', 'isivakalisi')
+Error : exists_zu('ingonyama', 'tya', 'impala')
+Error : exists_zu('indlulamthi', 'tya', 'ihlamvana')
+Error : exists_zu('intliziyo', 'inxalenye', 'umntu')
+Error : exists_zu('inkawu', 'tya', 'iziqhamo')
+Error : exists_zu('iqela_loogqirha_botyando', 'kwabelene', 'ukuhlinza')
+Error : exists_zu('isampuli_yegazi', 'isiqendu', 'igazi')
+Error : exists_zu('isazi_somculo', 'inxalenye', 'i-okhestra')
+Error : exists_zu('iqonga_lokusebenza', 'umnxa', 'isibhedlele')
+Error : exists_zu('iziko', 'umnxa', 'isiqhulo')
+Error : exists_zu('iqhekeza_lesonka', 'isiqendu', 'isonka')
+Error : exists_zu('ugqirha', 'inxalenye', 'ukuhlinza')
+Error : exists_zu('iflawa', 'inxalenye', 'isonka')
+Error : exists_zu('ukuginya', 'inxalenye', 'ukutya')
+Error : exists_zu('ukukhotha_iice_cream', 'isiqendu', 'iice_cream')
+Error : exists_zu('ukusebenza', 'yawufezekisa', 'umsebenzi_omiselweyo')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umphakathi', 'kwabelene', 'unyulo')
+Error : exists_zu('umntu', 'tya', 'iziqhamo')
+Error : exists_zu('umntu', 'sela', 'ulwelo')
+
+aaaa 8:9
+Error : wp('i-okhestra', 'isazi_somculo')
+Error : wp('ikhompyutha', 'ingcamango_yomatshini')
+Error : wp('imvulophu', 'incwadi')
+Error : wp('iqela_loogqirha_botyando', 'ugqirha')
+Error : wp('isisu', 'isangqa_sokutya')
+Error : wp('ukutya', 'ukuginya')
+Error : wp('ukuhlinza', 'ugqirha')
+Error : wp('umntu', 'intliziyo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampuli_yegazi')
+Error : wp_solid_p('isonka', 'iqhekeza_lesonka')
+Error : wp_solid_p('iice_cream', 'ukukhotha_iice_cream')
+
+ffff 3:3
+Error : pw_ci('incwadi', 'imvulophu')
+Error : pw_ci('isangqa_sokutya', 'isisu')
+Error : pw_ci('ingcamango_yomatshini', 'ikhompyutha')
+
+nexist 4:5
+Error : nexist_zu('ingwe', 'tya', 'i-apile')
+Error : nexist_zu('ipilisi', 'enziwe', 'isivakalisi')
+Error : nexist_zu('ugogo', 'tya', 'i-apile')
+Error : nexist_zu('umntu', 'feza', 'umsebenzi_omiselweyo')
+
+enziwe 1:1
+Error : const_e('ipilisi', 'isitatshi')
+
+dddd 2:2
+Error : wp_spatial('isibhedlele', 'iqonga_lokusebenza')
+Error : wp_spatial('isiqhulo', 'iziko')
+
+cccc 2:2
+Error : wp_s('isonka', 'iflawa')
+Error : wp_s('isivakalisi', 'amanzi')
+
+bbbb 2:2
+Error : wp_cp('unyulo', 'umphakathi')
+Error : wp_cp('ukuhlinza', 'iqela_loogqirha_botyando')
+
+disjoint 12:14
+Error : nisa_zu('ibhotolo', 'itshizi')
+Error : nisa_zu('ingonyama', 'indlovu')
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('indebe', 'iglasi')
+Error : nisa_zu('indlu', 'ityotyombe')
+Error : nisa_zu('isityanyama', 'isityazityalo')
+Error : nisa_zu('isihlalo', 'itafile')
+Error : nisa_zu('icephe', 'ifolokhwe')
+Error : nisa_zu('umakazi', 'umalume')
+Error : nisa_zu('ukubaleka', 'ukuhlala')
+Error : nisa_zu('umfula', 'ijelo')
+
+exists 20:24
+Error : exists_zu('amanzi', 'inxalenye', 'isivakalisi')
+Error : exists_zu('ingonyama', 'tya', 'impala')
+Error : exists_zu('indlulamthi', 'tya', 'ihlamvana')
+Error : exists_zu('intliziyo', 'inxalenye', 'umntu')
+Error : exists_zu('inkawu', 'tya', 'iziqhamo')
+Error : exists_zu('iqela_loogqirha_botyando', 'kwabelene', 'ukuhlinza')
+Error : exists_zu('isampuli_yegazi', 'isiqendu', 'igazi')
+Error : exists_zu('isazi_somculo', 'inxalenye', 'i-okhestra')
+Error : exists_zu('iqonga_lokusebenza', 'umnxa', 'isibhedlele')
+Error : exists_zu('iziko', 'umnxa', 'isiqhulo')
+Error : exists_zu('iqhekeza_lesonka', 'isiqendu', 'isonka')
+Error : exists_zu('ugqirha', 'inxalenye', 'ukuhlinza')
+Error : exists_zu('iflawa', 'inxalenye', 'isonka')
+Error : exists_zu('ukuginya', 'inxalenye', 'ukutya')
+Error : exists_zu('ukukhotha_iice_cream', 'isiqendu', 'iice_cream')
+Error : exists_zu('ukusebenza', 'yawufezekisa', 'umsebenzi_omiselweyo')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umphakathi', 'kwabelene', 'unyulo')
+Error : exists_zu('umntu', 'tya', 'iziqhamo')
+Error : exists_zu('umntu', 'sela', 'ulwelo')
+
+aaaa 8:9
+Error : wp('i-okhestra', 'isazi_somculo')
+Error : wp('ikhompyutha', 'ingcamango_yomatshini')
+Error : wp('imvulophu', 'incwadi')
+Error : wp('iqela_loogqirha_botyando', 'ugqirha')
+Error : wp('isisu', 'isangqa_sokutya')
+Error : wp('ukutya', 'ukuginya')
+Error : wp('ukuhlinza', 'ugqirha')
+Error : wp('umntu', 'intliziyo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampuli_yegazi')
+Error : wp_solid_p('isonka', 'iqhekeza_lesonka')
+Error : wp_solid_p('iice_cream', 'ukukhotha_iice_cream')
+
+ffff 3:3
+Error : pw_ci('incwadi', 'imvulophu')
+Error : pw_ci('isangqa_sokutya', 'isisu')
+Error : pw_ci('ingcamango_yomatshini', 'ikhompyutha')
+
+nexist 4:5
+Error : nexist_zu('ingwe', 'tya', 'i-apile')
+Error : nexist_zu('ipilisi', 'enziwe', 'isivakalisi')
+Error : nexist_zu('ugogo', 'tya', 'i-apile')
+Error : nexist_zu('umntu', 'feza', 'umsebenzi_omiselweyo')
+
+enziwe 1:1
+Error : const_e('ipilisi', 'isitatshi')
+
+dddd 2:2
+Error : wp_spatial('isibhedlele', 'iqonga_lokusebenza')
+Error : wp_spatial('isiqhulo', 'iziko')
+
+cccc 2:2
+Error : wp_s('isonka', 'iflawa')
+Error : wp_s('isivakalisi', 'amanzi')
+
+bbbb 2:2
+Error : wp_cp('unyulo', 'umphakathi')
+Error : wp_cp('ukuhlinza', 'iqela_loogqirha_botyando')
+
+disjoint 12:14
+Error : nisa_zu('ibhotolo', 'itshizi')
+Error : nisa_zu('ingonyama', 'indlovu')
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('indebe', 'iglasi')
+Error : nisa_zu('indlu', 'ityotyombe')
+Error : nisa_zu('isityanyama', 'isityazityalo')
+Error : nisa_zu('isihlalo', 'itafile')
+Error : nisa_zu('icephe', 'ifolokhwe')
+Error : nisa_zu('umakazi', 'umalume')
+Error : nisa_zu('ukubaleka', 'ukuhlala')
+Error : nisa_zu('umfula', 'ijelo')
+
+exists 20:24
+Error : exists_zu('amanzi', 'inxalenye', 'isivakalisi')
+Error : exists_zu('ingonyama', 'tya', 'impala')
+Error : exists_zu('indlulamthi', 'tya', 'ihlamvana')
+Error : exists_zu('intliziyo', 'inxalenye', 'umntu')
+Error : exists_zu('inkawu', 'tya', 'iziqhamo')
+Error : exists_zu('iqela_loogqirha_botyando', 'kwabelene', 'ukuhlinza')
+Error : exists_zu('isampuli_yegazi', 'isiqendu', 'igazi')
+Error : exists_zu('isazi_somculo', 'inxalenye', 'i-okhestra')
+Error : exists_zu('iqonga_lokusebenza', 'umnxa', 'isibhedlele')
+Error : exists_zu('iziko', 'umnxa', 'isiqhulo')
+Error : exists_zu('iqhekeza_lesonka', 'isiqendu', 'isonka')
+Error : exists_zu('ugqirha', 'inxalenye', 'ukuhlinza')
+Error : exists_zu('iflawa', 'inxalenye', 'isonka')
+Error : exists_zu('ukuginya', 'inxalenye', 'ukutya')
+Error : exists_zu('ukukhotha_iice_cream', 'isiqendu', 'iice_cream')
+Error : exists_zu('ukusebenza', 'yawufezekisa', 'umsebenzi_omiselweyo')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umphakathi', 'kwabelene', 'unyulo')
+Error : exists_zu('umntu', 'tya', 'iziqhamo')
+Error : exists_zu('umntu', 'sela', 'ulwelo')
+
+aaaa 8:9
+Error : wp('i-okhestra', 'isazi_somculo')
+Error : wp('ikhompyutha', 'ingcamango_yomatshini')
+Error : wp('imvulophu', 'incwadi')
+Error : wp('iqela_loogqirha_botyando', 'ugqirha')
+Error : wp('isisu', 'isangqa_sokutya')
+Error : wp('ukutya', 'ukuginya')
+Error : wp('ukuhlinza', 'ugqirha')
+Error : wp('umntu', 'intliziyo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampuli_yegazi')
+Error : wp_solid_p('isonka', 'iqhekeza_lesonka')
+Error : wp_solid_p('iice_cream', 'ukukhotha_iice_cream')
+
+ffff 3:3
+Error : pw_ci('incwadi', 'imvulophu')
+Error : pw_ci('isangqa_sokutya', 'isisu')
+Error : pw_ci('ingcamango_yomatshini', 'ikhompyutha')
+
+nexist 4:5
+Error : nexist_zu('ingwe', 'tya', 'i-apile')
+Error : nexist_zu('ipilisi', 'enziwe', 'isivakalisi')
+Error : nexist_zu('ugogo', 'tya', 'i-apile')
+Error : nexist_zu('umntu', 'feza', 'umsebenzi_omiselweyo')
+
+enziwe 1:1
+Error : const_e('ipilisi', 'isitatshi')
+
+dddd 2:2
+Error : wp_spatial('isibhedlele', 'iqonga_lokusebenza')
+Error : wp_spatial('isiqhulo', 'iziko')
+
+cccc 2:2
+Error : wp_s('isonka', 'iflawa')
+Error : wp_s('isivakalisi', 'amanzi')
+
+bbbb 2:2
+Error : wp_cp('unyulo', 'umphakathi')
+Error : wp_cp('ukuhlinza', 'iqela_loogqirha_botyando')
+
+disjoint 12:14
+Error : nisa_zu('ibhotolo', 'itshizi')
+Error : nisa_zu('ingonyama', 'indlovu')
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('indebe', 'iglasi')
+Error : nisa_zu('indlu', 'ityotyombe')
+Error : nisa_zu('isityanyama', 'isityazityalo')
+Error : nisa_zu('isihlalo', 'itafile')
+Error : nisa_zu('icephe', 'ifolokhwe')
+Error : nisa_zu('umakazi', 'umalume')
+Error : nisa_zu('ukubaleka', 'ukuhlala')
+Error : nisa_zu('umfula', 'ijelo')
+
+exists 20:24
+Error : exists_zu('amanzi', 'inxalenye', 'isivakalisi')
+Error : exists_zu('ingonyama', 'tya', 'impala')
+Error : exists_zu('indlulamthi', 'tya', 'ihlamvana')
+Error : exists_zu('intliziyo', 'inxalenye', 'umntu')
+Error : exists_zu('inkawu', 'tya', 'iziqhamo')
+Error : exists_zu('iqela_loogqirha_botyando', 'kwabelene', 'ukuhlinza')
+Error : exists_zu('isampuli_yegazi', 'isiqendu', 'igazi')
+Error : exists_zu('isazi_somculo', 'inxalenye', 'i-okhestra')
+Error : exists_zu('iqonga_lokusebenza', 'umnxa', 'isibhedlele')
+Error : exists_zu('iziko', 'umnxa', 'isiqhulo')
+Error : exists_zu('iqhekeza_lesonka', 'isiqendu', 'isonka')
+Error : exists_zu('ugqirha', 'inxalenye', 'ukuhlinza')
+Error : exists_zu('iflawa', 'inxalenye', 'isonka')
+Error : exists_zu('ukuginya', 'inxalenye', 'ukutya')
+Error : exists_zu('ukukhotha_iice_cream', 'isiqendu', 'iice_cream')
+Error : exists_zu('ukusebenza', 'yawufezekisa', 'umsebenzi_omiselweyo')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umphakathi', 'kwabelene', 'unyulo')
+Error : exists_zu('umntu', 'tya', 'iziqhamo')
+Error : exists_zu('umntu', 'sela', 'ulwelo')
+
+aaaa 8:9
+Error : wp('i-okhestra', 'isazi_somculo')
+Error : wp('ikhompyutha', 'ingcamango_yomatshini')
+Error : wp('imvulophu', 'incwadi')
+Error : wp('iqela_loogqirha_botyando', 'ugqirha')
+Error : wp('isisu', 'isangqa_sokutya')
+Error : wp('ukutya', 'ukuginya')
+Error : wp('ukuhlinza', 'ugqirha')
+Error : wp('umntu', 'intliziyo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampuli_yegazi')
+Error : wp_solid_p('isonka', 'iqhekeza_lesonka')
+Error : wp_solid_p('iice_cream', 'ukukhotha_iice_cream')
+
+ffff 3:3
+Error : pw_ci('incwadi', 'imvulophu')
+Error : pw_ci('isangqa_sokutya', 'isisu')
+Error : pw_ci('ingcamango_yomatshini', 'ikhompyutha')
+
+nexist 4:5
+Error : nexist_zu('ingwe', 'tya', 'i-apile')
+Error : nexist_zu('ipilisi', 'enziwe', 'isivakalisi')
+Error : nexist_zu('ugogo', 'tya', 'i-apile')
+Error : nexist_zu('umntu', 'feza', 'umsebenzi_omiselweyo')
+
+enziwe 1:1
+Error : const_e('ipilisi', 'isitatshi')
+
+dddd 2:2
+Error : wp_spatial('isibhedlele', 'iqonga_lokusebenza')
+Error : wp_spatial('isiqhulo', 'iziko')
+
+cccc 2:2
+Error : wp_s('isonka', 'iflawa')
+Error : wp_s('isivakalisi', 'amanzi')
+
+bbbb 2:2
+Error : wp_cp('unyulo', 'umphakathi')
+Error : wp_cp('ukuhlinza', 'iqela_loogqirha_botyando')
+
+disjoint 12:14
+Error : nisa_zu('ibhotolo', 'itshizi')
+Error : nisa_zu('ingonyama', 'indlovu')
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('indebe', 'iglasi')
+Error : nisa_zu('indlu', 'ityotyombe')
+Error : nisa_zu('isityanyama', 'isityazityalo')
+Error : nisa_zu('isihlalo', 'itafile')
+Error : nisa_zu('icephe', 'ifolokhwe')
+Error : nisa_zu('umakazi', 'umalume')
+Error : nisa_zu('ukubaleka', 'ukuhlala')
+Error : nisa_zu('umfula', 'ijelo')
+
+exists 20:24
+Error : exists_zu('amanzi', 'inxalenye', 'isivakalisi')
+Error : exists_zu('ingonyama', 'tya', 'impala')
+Error : exists_zu('indlulamthi', 'tya', 'ihlamvana')
+Error : exists_zu('intliziyo', 'inxalenye', 'umntu')
+Error : exists_zu('inkawu', 'tya', 'iziqhamo')
+Error : exists_zu('iqela_loogqirha_botyando', 'kwabelene', 'ukuhlinza')
+Error : exists_zu('isampuli_yegazi', 'isiqendu', 'igazi')
+Error : exists_zu('isazi_somculo', 'inxalenye', 'i-okhestra')
+Error : exists_zu('iqonga_lokusebenza', 'umnxa', 'isibhedlele')
+Error : exists_zu('iziko', 'umnxa', 'isiqhulo')
+Error : exists_zu('iqhekeza_lesonka', 'isiqendu', 'isonka')
+Error : exists_zu('ugqirha', 'inxalenye', 'ukuhlinza')
+Error : exists_zu('iflawa', 'inxalenye', 'isonka')
+Error : exists_zu('ukuginya', 'inxalenye', 'ukutya')
+Error : exists_zu('ukukhotha_iice_cream', 'isiqendu', 'iice_cream')
+Error : exists_zu('ukusebenza', 'yawufezekisa', 'umsebenzi_omiselweyo')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umphakathi', 'kwabelene', 'unyulo')
+Error : exists_zu('umntu', 'tya', 'iziqhamo')
+Error : exists_zu('umntu', 'sela', 'ulwelo')
+
+aaaa 8:9
+Error : wp('i-okhestra', 'isazi_somculo')
+Error : wp('ikhompyutha', 'ingcamango_yomatshini')
+Error : wp('imvulophu', 'incwadi')
+Error : wp('iqela_loogqirha_botyando', 'ugqirha')
+Error : wp('isisu', 'isangqa_sokutya')
+Error : wp('ukutya', 'ukuginya')
+Error : wp('ukuhlinza', 'ugqirha')
+Error : wp('umntu', 'intliziyo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampuli_yegazi')
+Error : wp_solid_p('isonka', 'iqhekeza_lesonka')
+Error : wp_solid_p('iice_cream', 'ukukhotha_iice_cream')
+
+ffff 3:3
+Error : pw_ci('incwadi', 'imvulophu')
+Error : pw_ci('isangqa_sokutya', 'isisu')
+Error : pw_ci('ingcamango_yomatshini', 'ikhompyutha')
+
+nexist 4:5
+Error : nexist_zu('ingwe', 'tya', 'i-apile')
+Error : nexist_zu('ipilisi', 'enziwe', 'isivakalisi')
+Error : nexist_zu('ugogo', 'tya', 'i-apile')
+Error : nexist_zu('umntu', 'feza', 'umsebenzi_omiselweyo')
+
+enziwe 1:1
+Error : const_e('ipilisi', 'isitatshi')
+
+dddd 2:2
+Error : wp_spatial('isibhedlele', 'iqonga_lokusebenza')
+Error : wp_spatial('isiqhulo', 'iziko')
+
+cccc 2:2
+Error : wp_s('isonka', 'iflawa')
+Error : wp_s('isivakalisi', 'amanzi')
+
+bbbb 2:2
+Error : wp_cp('unyulo', 'umphakathi')
+Error : wp_cp('ukuhlinza', 'iqela_loogqirha_botyando')
+
+disjoint 12:14
+Error : nisa_zu('ibhotolo', 'itshizi')
+Error : nisa_zu('ingonyama', 'indlovu')
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('indebe', 'iglasi')
+Error : nisa_zu('indlu', 'ityotyombe')
+Error : nisa_zu('isityanyama', 'isityazityalo')
+Error : nisa_zu('isihlalo', 'itafile')
+Error : nisa_zu('icephe', 'ifolokhwe')
+Error : nisa_zu('umakazi', 'umalume')
+Error : nisa_zu('ukubaleka', 'ukuhlala')
+Error : nisa_zu('umfula', 'ijelo')
+
+exists 20:24
+Error : exists_zu('amanzi', 'inxalenye', 'isivakalisi')
+Error : exists_zu('ingonyama', 'tya', 'impala')
+Error : exists_zu('indlulamthi', 'tya', 'ihlamvana')
+Error : exists_zu('intliziyo', 'inxalenye', 'umntu')
+Error : exists_zu('inkawu', 'tya', 'iziqhamo')
+Error : exists_zu('iqela_loogqirha_botyando', 'kwabelene', 'ukuhlinza')
+Error : exists_zu('isampuli_yegazi', 'isiqendu', 'igazi')
+Error : exists_zu('isazi_somculo', 'inxalenye', 'i-okhestra')
+Error : exists_zu('iqonga_lokusebenza', 'umnxa', 'isibhedlele')
+Error : exists_zu('iziko', 'umnxa', 'isiqhulo')
+Error : exists_zu('iqhekeza_lesonka', 'isiqendu', 'isonka')
+Error : exists_zu('ugqirha', 'inxalenye', 'ukuhlinza')
+Error : exists_zu('iflawa', 'inxalenye', 'isonka')
+Error : exists_zu('ukuginya', 'inxalenye', 'ukutya')
+Error : exists_zu('ukukhotha_iice_cream', 'isiqendu', 'iice_cream')
+Error : exists_zu('ukusebenza', 'yawufezekisa', 'umsebenzi_omiselweyo')
+Error : exists_zu('umfundi_ongenaziqu', 'enza', 'isifundo')
+Error : exists_zu('umphakathi', 'kwabelene', 'unyulo')
+Error : exists_zu('umntu', 'tya', 'iziqhamo')
+Error : exists_zu('umntu', 'sela', 'ulwelo')
+
+aaaa 8:9
+Error : wp('i-okhestra', 'isazi_somculo')
+Error : wp('ikhompyutha', 'ingcamango_yomatshini')
+Error : wp('imvulophu', 'incwadi')
+Error : wp('iqela_loogqirha_botyando', 'ugqirha')
+Error : wp('isisu', 'isangqa_sokutya')
+Error : wp('ukutya', 'ukuginya')
+Error : wp('ukuhlinza', 'ugqirha')
+Error : wp('umntu', 'intliziyo')
+
+eeee 3:3
+Error : wp_solid_p('igazi', 'isampuli_yegazi')
+Error : wp_solid_p('isonka', 'iqhekeza_lesonka')
+Error : wp_solid_p('iice_cream', 'ukukhotha_iice_cream')
+
+ffff 3:3
+Error : pw_ci('incwadi', 'imvulophu')
+Error : pw_ci('isangqa_sokutya', 'isisu')
+Error : pw_ci('ingcamango_yomatshini', 'ikhompyutha')
+
+nexist 4:5
+Error : nexist_zu('ingwe', 'tya', 'i-apile')
+Error : nexist_zu('ipilisi', 'enziwe', 'isivakalisi')
+Error : nexist_zu('ugogo', 'tya', 'i-apile')
+Error : nexist_zu('umntu', 'feza', 'umsebenzi_omiselweyo')
+
+enziwe 1:1
+Error : const_e('ipilisi', 'isitatshi')
+
+dddd 2:2
+Error : wp_spatial('isibhedlele', 'iqonga_lokusebenza')
+Error : wp_spatial('isiqhulo', 'iziko')
+
+cccc 2:2
+Error : wp_s('isonka', 'iflawa')
+Error : wp_s('isivakalisi', 'amanzi')
+
+bbbb 2:2
+Error : wp_cp('unyulo', 'umphakathi')
+Error : wp_cp('ukuhlinza', 'iqela_loogqirha_botyando')
+
+disjoint 12:14
+Error : nisa_zu('ibhotolo', 'itshizi')
+Error : nisa_zu('ingonyama', 'indlovu')
+Error : nisa_zu('ihebhivo', 'ikhanivo')
+Error : nisa_zu('imifino', 'inyama')
+Error : nisa_zu('indebe', 'iglasi')
+Error : nisa_zu('indlu', 'ityotyombe')
+Error : nisa_zu('isityanyama', 'isityazityalo')
+Error : nisa_zu('isihlalo', 'itafile')
+Error : nisa_zu('icephe', 'ifolokhwe')
+Error : nisa_zu('umakazi', 'umalume')
+Error : nisa_zu('ukubaleka', 'ukuhlala')
+Error : nisa_zu('umfula', 'ijelo')
+
+exists 27:27
+Error : exists_zu('metsi', 'karolo', 'tshingwana')
+Error : exists_zu('tau', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'motlae')
+Error : exists_zu('ntlo', 'agilwe', 'leje')
+Error : exists_zu('thutlwa', 'ja', 'motlae')
+Error : exists_zu('pelo', 'karolo', 'motho')
+Error : exists_zu('tshwene', 'ja', 'tholoana')
+Error : exists_zu('pilisi', 'dirilwe', 'setatšhe')
+Error : exists_zu('setlhopha_sa_dingaka', 'kopanetswe', 'go_dira_karo')
+Error : exists_zu('sampole_madi', 'tiragalo', 'madi')
+Error : exists_zu('thuto', 'rutiwa', 'moitse')
+Error : exists_zu('thiyetha_yakaro', 'motlatsi', 'bookelo')
+Error : exists_zu('kgopa', 'agilwe', 'letsopa')
+Error : exists_zu('molelo', 'motlatsi', 'motlae')
+Error : exists_zu('Kgosigadi', 'karolo', 'Pokano')
+Error : exists_zu('moitse', 'rutisa', 'thuto')
+Error : exists_zu('sengoathoana_sa_borotho', 'tiragalo', 'borotho')
+Error : exists_zu('ngaka', 'karolo', 'go_dira_karo')
+Error : exists_zu('folawa', 'karolo', 'borotho')
+Error : exists_zu('go_tlhafuna_ice_cream', 'tiragalo', 'ice_cream')
+Error : exists_zu('gobereka', 'yagodirakgatsa', 'mmereko_okgutsufaditsweng')
+Error : exists_zu('moithuti_wa_undergraduate', 'dira', 'thutho')
+Error : exists_zu('setšhaba', 'kopanngwa', 'tlhopho')
+Error : exists_zu('motho', 'ja', 'tholoana')
+Error : exists_zu('motho', 'nwa', 'metsi')
+Error : exists_zu('moitse_wammino', 'karolo', 'okhestra')
+Error : exists_zu('gometsa', 'karolo', 'goja')
+
+aaaa 9:9
+Error : wp('okhestra', 'seitse_sammino')
+Error : wp('Pokano', 'Kgosigadi')
+Error : wp('khompyutha', 'segopotso_sa_motšhini')
+Error : wp('emvolopho', 'buka')
+Error : wp('setlhopha_sa_dingaka', 'ngaka')
+Error : wp('mpa', 'sediko_sa_dijo')
+Error : wp('goja', 'gometsa')
+Error : wp('go_dira_karo', 'ngaka')
+Error : wp('motho', 'pelo')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('borotho', 'sengoathoana_sa_borotho')
+Error : wp_solid_p('ice_cream', 'go_tlhafuna_ice_cream')
+
+dddd 2:2
+Error : wp_spatial('motlae', 'molelo')
+Error : wp_spatial('bookelo', 'thiyetha_yakaro')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('sediko_sa_dijo', 'mpa')
+Error : pw_ci('segopotso_sa_motšhini', 'khompyutha')
+
+nexist 5:5
+Error : nexist_zu('nkwe', 'ja', 'apole')
+Error : nexist_zu('pilisi', 'dirilwe', 'tshingwana')
+Error : nexist_zu('kgopa', 'agilwe', 'metsi')
+Error : nexist_zu('mmèmogolo', 'ja', 'apole')
+Error : nexist_zu('motho', 'dira', 'mmereko_okgutsufaditsweng')
+
+cccc 2:2
+Error : wp_s('borotho', 'folawa')
+Error : wp_s('tshingwana', 'metsi')
+
+bbbb 2:2
+Error : wp_cp('go_dira_karo', 'setlhopha_sa_dingaka')
+Error : wp_cp('kghetho', 'setšhaba')
+
+disjoint 14:14
+Error : nisa_zu('lebotlolo', 'tšhisi')
+Error : nisa_zu('tau', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('merogo', 'nama')
+Error : nisa_zu('senwelo', 'galase')
+Error : nisa_zu('ntlo', 'mokhukhu')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'morogo')
+Error : nisa_zu('sejanama', 'sejamerogo')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('khaba', 'foroko')
+Error : nisa_zu('mmamalome', 'malome')
+Error : nisa_zu('gotaboga', 'gonna')
+Error : nisa_zu('noka', 'kanale')
+
+exists 27:27
+Error : exists_zu('metsi', 'karolo', 'tshingwana')
+Error : exists_zu('tau', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'motlae')
+Error : exists_zu('ntlo', 'agilwe', 'leje')
+Error : exists_zu('thutlwa', 'ja', 'motlae')
+Error : exists_zu('pelo', 'karolo', 'motho')
+Error : exists_zu('tshwene', 'ja', 'tholoana')
+Error : exists_zu('pilisi', 'dirilwe', 'setatšhe')
+Error : exists_zu('setlhopha_sa_dingaka', 'kopanetswe', 'go_dira_karo')
+Error : exists_zu('sampole_madi', 'tiragalo', 'madi')
+Error : exists_zu('thuto', 'rutiwa', 'moitse')
+Error : exists_zu('thiyetha_yakaro', 'motlatsi', 'bookelo')
+Error : exists_zu('kgopa', 'agilwe', 'letsopa')
+Error : exists_zu('molelo', 'motlatsi', 'motlae')
+Error : exists_zu('Kgosigadi', 'karolo', 'Pokano')
+Error : exists_zu('moitse', 'rutisa', 'thuto')
+Error : exists_zu('sengoathoana_sa_borotho', 'tiragalo', 'borotho')
+Error : exists_zu('ngaka', 'karolo', 'go_dira_karo')
+Error : exists_zu('folawa', 'karolo', 'borotho')
+Error : exists_zu('go_tlhafuna_ice_cream', 'tiragalo', 'ice_cream')
+Error : exists_zu('gobereka', 'yagodirakgatsa', 'mmereko_okgutsufaditsweng')
+Error : exists_zu('moithuti_wa_undergraduate', 'dira', 'thutho')
+Error : exists_zu('setšhaba', 'kopanngwa', 'tlhopho')
+Error : exists_zu('motho', 'ja', 'tholoana')
+Error : exists_zu('motho', 'nwa', 'metsi')
+Error : exists_zu('moitse_wammino', 'karolo', 'okhestra')
+Error : exists_zu('gometsa', 'karolo', 'goja')
+
+aaaa 9:9
+Error : wp('okhestra', 'seitse_sammino')
+Error : wp('Pokano', 'Kgosigadi')
+Error : wp('khompyutha', 'segopotso_sa_motšhini')
+Error : wp('emvolopho', 'buka')
+Error : wp('setlhopha_sa_dingaka', 'ngaka')
+Error : wp('mpa', 'sediko_sa_dijo')
+Error : wp('goja', 'gometsa')
+Error : wp('go_dira_karo', 'ngaka')
+Error : wp('motho', 'pelo')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('borotho', 'sengoathoana_sa_borotho')
+Error : wp_solid_p('ice_cream', 'go_tlhafuna_ice_cream')
+
+dddd 2:2
+Error : wp_spatial('motlae', 'molelo')
+Error : wp_spatial('bookelo', 'thiyetha_yakaro')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('sediko_sa_dijo', 'mpa')
+Error : pw_ci('segopotso_sa_motšhini', 'khompyutha')
+
+nexist 5:5
+Error : nexist_zu('nkwe', 'ja', 'apole')
+Error : nexist_zu('pilisi', 'dirilwe', 'tshingwana')
+Error : nexist_zu('kgopa', 'agilwe', 'metsi')
+Error : nexist_zu('mmèmogolo', 'ja', 'apole')
+Error : nexist_zu('motho', 'dira', 'mmereko_okgutsufaditsweng')
+
+cccc 2:2
+Error : wp_s('borotho', 'folawa')
+Error : wp_s('tshingwana', 'metsi')
+
+bbbb 2:2
+Error : wp_cp('go_dira_karo', 'setlhopha_sa_dingaka')
+Error : wp_cp('kghetho', 'setšhaba')
+
+disjoint 14:14
+Error : nisa_zu('lebotlolo', 'tšhisi')
+Error : nisa_zu('tau', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('merogo', 'nama')
+Error : nisa_zu('senwelo', 'galase')
+Error : nisa_zu('ntlo', 'mokhukhu')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'morogo')
+Error : nisa_zu('sejanama', 'sejamerogo')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('khaba', 'foroko')
+Error : nisa_zu('mmamalome', 'malome')
+Error : nisa_zu('gotaboga', 'gonna')
+Error : nisa_zu('noka', 'kanale')
+
+exists 27:27
+Error : exists_zu('metsi', 'karolo', 'tshingwana')
+Error : exists_zu('tau', 'ja', 'impala')
+Error : exists_zu('tlou', 'ja', 'motlae')
+Error : exists_zu('ntlo', 'agilwe', 'leje')
+Error : exists_zu('thutlwa', 'ja', 'motlae')
+Error : exists_zu('pelo', 'karolo', 'motho')
+Error : exists_zu('tshwene', 'ja', 'tholoana')
+Error : exists_zu('pilisi', 'dirilwe', 'setatšhe')
+Error : exists_zu('setlhopha_sa_dingaka', 'kopanetswe', 'go_dira_karo')
+Error : exists_zu('sampole_madi', 'tiragalo', 'madi')
+Error : exists_zu('thuto', 'rutiwa', 'moitse')
+Error : exists_zu('thiyetha_yakaro', 'motlatsi', 'bookelo')
+Error : exists_zu('kgopa', 'agilwe', 'letsopa')
+Error : exists_zu('molelo', 'motlatsi', 'motlae')
+Error : exists_zu('Kgosigadi', 'karolo', 'Pokano')
+Error : exists_zu('moitse', 'rutisa', 'thuto')
+Error : exists_zu('sengoathoana_sa_borotho', 'tiragalo', 'borotho')
+Error : exists_zu('ngaka', 'karolo', 'go_dira_karo')
+Error : exists_zu('folawa', 'karolo', 'borotho')
+Error : exists_zu('go_tlhafuna_ice_cream', 'tiragalo', 'ice_cream')
+Error : exists_zu('gobereka', 'yagodirakgatsa', 'mmereko_okgutsufaditsweng')
+Error : exists_zu('moithuti_wa_undergraduate', 'dira', 'thutho')
+Error : exists_zu('setšhaba', 'kopanngwa', 'tlhopho')
+Error : exists_zu('motho', 'ja', 'tholoana')
+Error : exists_zu('motho', 'nwa', 'metsi')
+Error : exists_zu('moitse_wammino', 'karolo', 'okhestra')
+Error : exists_zu('gometsa', 'karolo', 'goja')
+
+aaaa 9:9
+Error : wp('okhestra', 'seitse_sammino')
+Error : wp('Pokano', 'Kgosigadi')
+Error : wp('khompyutha', 'segopotso_sa_motšhini')
+Error : wp('emvolopho', 'buka')
+Error : wp('setlhopha_sa_dingaka', 'ngaka')
+Error : wp('mpa', 'sediko_sa_dijo')
+Error : wp('goja', 'gometsa')
+Error : wp('go_dira_karo', 'ngaka')
+Error : wp('motho', 'pelo')
+
+eeee 3:3
+Error : wp_solid_p('madi', 'sampole_madi')
+Error : wp_solid_p('borotho', 'sengoathoana_sa_borotho')
+Error : wp_solid_p('ice_cream', 'go_tlhafuna_ice_cream')
+
+dddd 2:2
+Error : wp_spatial('motlae', 'molelo')
+Error : wp_spatial('bookelo', 'thiyetha_yakaro')
+
+ffff 3:3
+Error : pw_ci('buka', 'emvolopho')
+Error : pw_ci('sediko_sa_dijo', 'mpa')
+Error : pw_ci('segopotso_sa_motšhini', 'khompyutha')
+
+nexist 5:5
+Error : nexist_zu('nkwe', 'ja', 'apole')
+Error : nexist_zu('pilisi', 'dirilwe', 'tshingwana')
+Error : nexist_zu('kgopa', 'agilwe', 'metsi')
+Error : nexist_zu('mmèmogolo', 'ja', 'apole')
+Error : nexist_zu('motho', 'dira', 'mmereko_okgutsufaditsweng')
+
+cccc 2:2
+Error : wp_s('borotho', 'folawa')
+Error : wp_s('tshingwana', 'metsi')
+
+bbbb 2:2
+Error : wp_cp('go_dira_karo', 'setlhopha_sa_dingaka')
+Error : wp_cp('kghetho', 'setšhaba')
+
+disjoint 14:14
+Error : nisa_zu('lebotlolo', 'tšhisi')
+Error : nisa_zu('tau', 'tlou')
+Error : nisa_zu('hebhivo', 'khanivo')
+Error : nisa_zu('merogo', 'nama')
+Error : nisa_zu('senwelo', 'galase')
+Error : nisa_zu('ntlo', 'mokhukhu')
+Error : nisa_zu('monna', 'mosadi')
+Error : nisa_zu('nama', 'morogo')
+Error : nisa_zu('sejanama', 'sejamerogo')
+Error : nisa_zu('setulo', 'tafole')
+Error : nisa_zu('khaba', 'foroko')
+Error : nisa_zu('mmamalome', 'malome')
+Error : nisa_zu('gotaboga', 'gonna')
+Error : nisa_zu('noka', 'kanale')
+
