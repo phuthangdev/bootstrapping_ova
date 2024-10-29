@@ -7,7 +7,7 @@ This is a project towards the **MSc Artificial Intelligence** degree at the **Un
 2. Developing the algorithms through iterative adaptation (THIS).
 3. Measuring correlation between 1. and 2. to validate the Metric developed in 1.
    
-This project focuses on Natural Language Generation (NLG) in NCB languages, specifically Zulu, Sotho, and Tswana. The goal is to develop algorithms that can verbalize various ontology axioms in these languages.
+This project focuses on Natural Language Generation (NLG) in NCB languages, specifically Zulu, Sotho, Tswana and Xhosa. The goal is to develop algorithms that can verbalize various ontology axioms in these languages.
 
 ## Features
 
@@ -15,6 +15,7 @@ This project focuses on Natural Language Generation (NLG) in NCB languages, spec
    - **Zulu** (existing)
    - **Sotho** (new)
    - **Tswana** (new)
+   - **Xhosa** (new)
 
 2. **Ontology Axioms Verbalized**, with Description Logics symbology:
    - Subsumption: C ⊑ D
